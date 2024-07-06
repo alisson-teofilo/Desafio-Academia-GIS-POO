@@ -1,0 +1,28 @@
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\AppEstacionamento.exe
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\AppEstacionamento.deps.json
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\AppEstacionamento.runtimeconfig.json
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\AppEstacionamento.dll
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\AppEstacionamento.pdb
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.AssemblyInfoInputs.cache
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.AssemblyInfo.cs
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.dll
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\refint\AppEstacionamento.dll
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.pdb
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.genruntimeconfig.cache
+C:\Users\aliss\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\ref\AppEstacionamento.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\bin\Debug\net8.0\AppEstacionamento.exe
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\bin\Debug\net8.0\AppEstacionamento.deps.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\bin\Debug\net8.0\AppEstacionamento.runtimeconfig.json
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\bin\Debug\net8.0\AppEstacionamento.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\bin\Debug\net8.0\AppEstacionamento.pdb
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.AssemblyInfoInputs.cache
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.AssemblyInfo.cs
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\refint\AppEstacionamento.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.pdb
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.genruntimeconfig.cache
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\ref\AppEstacionamento.dll
