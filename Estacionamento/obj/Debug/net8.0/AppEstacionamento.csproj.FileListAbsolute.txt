@@ -26,3 +26,4 @@ C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a
 C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.pdb
 C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.genruntimeconfig.cache
 C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\ref\AppEstacionamento.dll
+C:\Users\aliss\OneDrive\Área de Trabalho\Academia GIS\Programação Orientada a Objeto\.NET\Desafio\Estacionamento\Estacionamento\obj\Debug\net8.0\AppEstacionamento.sourcelink.json

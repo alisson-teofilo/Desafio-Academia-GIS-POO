@@ -70,9 +70,9 @@ internal class Program
             Console.WriteLine("Bem vindo ao estacionamento Guardado Manco");
             Console.WriteLine("Digite uma opção a seguir: ");
             Console.WriteLine("");
-            Console.WriteLine("1 - Registrar entrada de veículo");
-            Console.WriteLine("2 - Registrar saída de veículo");
-            Console.WriteLine("3 -  Finalizar programa");
+            Console.WriteLine("1 - Entrada de veículo");
+            Console.WriteLine("2 - Saída de veículo");
+            Console.WriteLine("3 - Finalizar programa");
         }
 
         void RegistrarEntradaVeiculos(string[] dadosVeiculo, string veiculoEscolhido)
@@ -100,17 +100,17 @@ internal class Program
             {
                 if (i == 0)
                 {
-                    Console.WriteLine("Digite a placa da moto");
+                    Console.Write("Digite a placa da moto: ");
                     dadosVeiculo[0] = Console.ReadLine();
                 }
                 else if (i == 1)
                 {
-                    Console.WriteLine("Digite a marca da moto");
+                    Console.Write("Digite a marca da moto: ");
                     dadosVeiculo[1] = Console.ReadLine();
                 }
                 else
                 {
-                    Console.WriteLine("Digite o modelo da moto");
+                    Console.Write("Digite o modelo da moto: ");
                     dadosVeiculo[2] = Console.ReadLine();
                 }
             }
@@ -131,17 +131,17 @@ internal class Program
             {
                 if (i == 0)
                 {
-                    Console.WriteLine("Digite a placa do carro");
+                    Console.Write("Digite a placa do carro: ");
                     dadosVeiculo[0] = Console.ReadLine();
                 }
                 else if (i == 1)
                 {
-                    Console.WriteLine("Digite o marca do carro");
+                    Console.Write("Digite o marca do carro: ");
                     dadosVeiculo[1] = Console.ReadLine();
                 }
                 else
                 {
-                    Console.WriteLine("Digite o modelo do carro");
+                    Console.Write("Digite o modelo do carro: ");
                     dadosVeiculo[2] = Console.ReadLine();
                 }
             }
@@ -173,6 +173,7 @@ internal class Program
 
                 Console.Write("Informe a placa do veículo: ");
                 string placaVeiculo = Console.ReadLine();
+                Console.WriteLine("");
 
                 if (moto != null || carro != null)
                 {
@@ -194,7 +195,7 @@ internal class Program
                         }
 
                         Console.WriteLine("Total a ser pago R$: " + valorTotal);
-                        Console.WriteLine("Digite o valor a ser debitado da conta:");
+                        Console.Write("Digite o valor a ser debitado da conta:");
 
                         double valorPago = int.Parse(Console.ReadLine());
 
